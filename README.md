@@ -1,11 +1,9 @@
+<div align="center"> 
+  <h1>👋 Hi, I'm Tanish Singh</h1>
+  <h3>Aspiring Software Developer | Frontend / Full-Stack Developer | Problem Solver</h3>
+</div>
 
-  <div align="center"> 
-  # 👋 Hi, I'm Tanish Singh 
-  
-  </div>
-  
 
-Aspiring Software Developer | Frontend / Full-Stack Developer | Problem Solver
 
 ---
 
