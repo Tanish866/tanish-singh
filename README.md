@@ -1,4 +1,9 @@
+
+  <div align="center"> 
   # 👋 Hi, I'm Tanish Singh 
+  
+  </div>
+  
 
 Aspiring Software Developer | Frontend / Full-Stack Developer | Problem Solver
 
